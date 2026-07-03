@@ -10,7 +10,7 @@ Currently, I lead product and program delivery for enterprise GenAI platforms, i
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I've Built
 
 This GitHub is my public engineering portfolio where I build production-grade AI systems in public.
 
@@ -105,7 +105,7 @@ This profile documents my journey as I deepen expertise in:
 
 ---
 
-## 🌍 Interests
+## 🚀 Interests
 
 Beyond engineering, I enjoy exploring:
 
@@ -125,8 +125,8 @@ Beyond engineering, I enjoy exploring:
 
 ## 🤝 Connect
 
-* LinkedIn
-* Portfolio
-* GitHub Discussions
+- 💼 **LinkedIn:** [Himanshu Tamboli]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/himanshu-tamboli))
+- 🧠 **Portfolio:** [Enterprise AI Delivery Control Tower](https://himanshutamboli.github.io/enterprise-ai-delivery-control-tower/)
+- 💻 **GitHub:** [@himanshutamboli](https://github.com/himanshutamboli)
 
 Engineer by profession. Builder by passion. Lifelong learner by mindset.
