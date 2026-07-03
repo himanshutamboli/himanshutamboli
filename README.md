@@ -125,7 +125,7 @@ Beyond engineering, I enjoy exploring:
 
 ## 🤝 Connect
 
-- 💼 **LinkedIn:** [Himanshu Tamboli]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/himanshu-tamboli))
+- 💼 **LinkedIn:** [Himanshu Tamboli](https://www.linkedin.com/in/himanshu-tamboli)
 - 🧠 **Portfolio:** [Enterprise AI Delivery Control Tower](https://himanshutamboli.github.io/enterprise-ai-delivery-control-tower/)
 - 💻 **GitHub:** [@himanshutamboli](https://github.com/himanshutamboli)
 
