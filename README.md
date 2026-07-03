@@ -1,4 +1,4 @@
-### # Hi, I'm Himanshu Tamboli 👋
+### Hi, I'm Himanshu Tamboli 👋
 
 **AI Product Delivery & Technical Program Manager** | **Enterprise GenAI** | **Multi-Agent AI** | **LLMOps** | **Cloud & Data Platforms**
 
