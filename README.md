@@ -1,4 +1,6 @@
-### Hi, I'm Himanshu Tamboli 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm Himanshu Tamboli
+
+AI Product & Technical Program Manager | GenAI | Agentic AI | LLMOps
 
 **AI Product Delivery & Technical Program Manager** | **Enterprise GenAI** | **Multi-Agent AI** | **LLMOps** | **Cloud & Data Platforms**
 
@@ -11,6 +13,8 @@ Currently, I lead product and program delivery for enterprise GenAI platforms, i
 ---
 
 ## 🚀 What I've Built
+
+Building production-grade AI systems across Agentic AI, LLMOps, and Enterprise Platforms.
 
 This GitHub is my public engineering portfolio where I build production-grade AI systems in public.
 
