@@ -33,6 +33,21 @@ My goal is to continuously design, build, document, and ship real-world AI appli
 
 ---
 
+## 🚀 Featured Work
+
+📦 **[AI Engineering Portfolio →](https://github.com/himanshutamboli/ai-portfolio)** — six production-grade repos walking the full AI product lifecycle, built in public with tests, CI, and honest evaluation.
+
+| Project | What it is | Headline result |
+|---|---|---|
+| 🛰️ **[llm-observatory](https://github.com/himanshutamboli/llm-observatory)** | LLM observability platform: trace/span/eval data model, instrumentation SDK, regression detection, alerting, dashboard | Catches an LLM regression end to end |
+| 🤖 **[agentic-workflow](https://github.com/himanshutamboli/agentic-workflow)** | AIOps incident-triage agent: planner/executor loop, guardrails (retries · cost cap · human-in-the-loop), instrumented by `llm-observatory` | 83% task-success-rate, honestly measured |
+| 📚 **[rag-knowledge-assistant](https://github.com/himanshutamboli/rag-knowledge-assistant)** | Grounded RAG: cited answers + refusal, streaming chat UI | recall@3 1.0, MRR 0.94 |
+| 📉 **[churn-risk-service](https://github.com/himanshutamboli/churn-risk-service)** | Calibrated churn model, business-cost threshold, FastAPI + Docker, PSI drift | PR-AUC 0.647; expected cost $103k → $55k |
+| 📊 **[product-analytics-mini](https://github.com/himanshutamboli/product-analytics-mini)** | DuckDB + polars analytics engine + Streamlit dashboard | Catches the unbounded-retention misreport |
+| 🧱 **[ai-project-template](https://github.com/himanshutamboli/ai-project-template)** | The shared production baseline every repo is forged from | uv · ruff · pytest · CI |
+
+---
+
 ## 🛠 Core Expertise
 
 ### AI & Product
@@ -78,16 +93,16 @@ My goal is to continuously design, build, document, and ship real-world AI appli
 
 ## 📂 Portfolio Roadmap
 
-Over the coming months, I'll be building and open-sourcing production-quality projects including:
+Production-quality projects, built and open-sourced in public:
 
-* AI Project Template
-* Product Analytics Platform
-* Churn Prediction Service
-* Enterprise RAG Knowledge Assistant
-* LLM Observability Platform
-* Agentic Workflow Engine
-* AI Product Analytics Dashboard
-* Enterprise AI Control Tower
+* ✅ [AI Project Template](https://github.com/himanshutamboli/ai-project-template)
+* ✅ [Product Analytics Engine](https://github.com/himanshutamboli/product-analytics-mini)
+* ✅ [Churn Prediction Service](https://github.com/himanshutamboli/churn-risk-service)
+* ✅ [Enterprise RAG Knowledge Assistant](https://github.com/himanshutamboli/rag-knowledge-assistant)
+* ✅ [LLM Observability Platform](https://github.com/himanshutamboli/llm-observatory)
+* ✅ [Agentic Workflow Engine](https://github.com/himanshutamboli/agentic-workflow)
+* 🚧 AI Product Analytics Dashboard
+* 🚧 [Enterprise AI Control Tower](https://github.com/himanshutamboli/enterprise-ai-delivery-control-tower)
 
 Each repository is built with production engineering practices, comprehensive documentation, testing, CI/CD, and architectural decisions explained.
 
