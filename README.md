@@ -35,11 +35,12 @@ My goal is to continuously design, build, document, and ship real-world AI appli
 
 ## 🚀 Featured Work
 
-📦 **[AI Engineering Portfolio →](https://github.com/himanshutamboli/ai-portfolio)** — seven production-grade repos walking the full AI product lifecycle, built in public with tests, CI, and honest evaluation.
+📦 **[AI Engineering Portfolio →](https://github.com/himanshutamboli/ai-portfolio)** — seven production-grade repos walking the full AI product lifecycle, now unified into one platform (below), built in public with tests, CI, and honest evaluation.
 
 | Project | What it is | Headline result |
 |---|---|---|
-| 🛰️ **[llm-observatory](https://github.com/himanshutamboli/llm-observatory)** | LLM observability platform: trace/span/eval data model, instrumentation SDK, regression detection, alerting, dashboard | Catches an LLM regression end to end |
+| 🛰️ **[enterprise-ai-control-plane](https://github.com/himanshutamboli/enterprise-ai-control-plane)** | **Platform.** Modular control plane for running enterprise AI: orgs/RBAC, AI gateway (routing + cost metering), prompt registry, evals, observability, operator dashboard | Multi-tenant, RBAC'd FastAPI monolith; 6 modules, 42 tests, 7 ADRs |
+| 🔭 **[llm-observatory](https://github.com/himanshutamboli/llm-observatory)** | LLM observability platform: trace/span/eval data model, instrumentation SDK, regression detection, alerting, dashboard | Catches an LLM regression end to end |
 | 🤖 **[agentic-workflow](https://github.com/himanshutamboli/agentic-workflow)** | AIOps incident-triage agent: planner/executor loop, guardrails (retries · cost cap · human-in-the-loop), instrumented by `llm-observatory` | 83% task-success-rate, honestly measured |
 | 📚 **[rag-knowledge-assistant](https://github.com/himanshutamboli/rag-knowledge-assistant)** | Grounded RAG: cited answers + refusal, streaming chat UI | recall@3 1.0, MRR 0.94 |
 | 📉 **[churn-risk-service](https://github.com/himanshutamboli/churn-risk-service)** | Calibrated churn model, business-cost threshold, FastAPI + Docker, PSI drift | PR-AUC 0.647; expected cost $103k → $55k |
@@ -103,7 +104,11 @@ Production-quality projects, built and open-sourced in public:
 * ✅ [LLM Observability Platform](https://github.com/himanshutamboli/llm-observatory)
 * ✅ [Agentic Workflow Engine](https://github.com/himanshutamboli/agentic-workflow)
 * ✅ [AI Product Analytics Dashboard](https://github.com/himanshutamboli/ai-product-analytics)
-* 🚧 [Enterprise AI Control Tower](https://github.com/himanshutamboli/enterprise-ai-delivery-control-tower)
+
+**Phase 2 — one platform unifying the above:**
+
+* ✅ **[Enterprise AI Control Plane](https://github.com/himanshutamboli/enterprise-ai-control-plane)** — core platform shipped (v0.1): gateway, prompts, evals, observability, RBAC, operator dashboard
+* 🚧 [Enterprise AI Control Tower](https://github.com/himanshutamboli/enterprise-ai-delivery-control-tower) — executive UI (to be wired onto the Control Plane's live data)
 
 Each repository is built with production engineering practices, comprehensive documentation, testing, CI/CD, and architectural decisions explained.
 
