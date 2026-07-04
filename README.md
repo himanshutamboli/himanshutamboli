@@ -35,7 +35,7 @@ My goal is to continuously design, build, document, and ship real-world AI appli
 
 ## 🚀 Featured Work
 
-📦 **[AI Engineering Portfolio →](https://github.com/himanshutamboli/ai-portfolio)** — six production-grade repos walking the full AI product lifecycle, built in public with tests, CI, and honest evaluation.
+📦 **[AI Engineering Portfolio →](https://github.com/himanshutamboli/ai-portfolio)** — seven production-grade repos walking the full AI product lifecycle, built in public with tests, CI, and honest evaluation.
 
 | Project | What it is | Headline result |
 |---|---|---|
@@ -44,6 +44,7 @@ My goal is to continuously design, build, document, and ship real-world AI appli
 | 📚 **[rag-knowledge-assistant](https://github.com/himanshutamboli/rag-knowledge-assistant)** | Grounded RAG: cited answers + refusal, streaming chat UI | recall@3 1.0, MRR 0.94 |
 | 📉 **[churn-risk-service](https://github.com/himanshutamboli/churn-risk-service)** | Calibrated churn model, business-cost threshold, FastAPI + Docker, PSI drift | PR-AUC 0.647; expected cost $103k → $55k |
 | 📊 **[product-analytics-mini](https://github.com/himanshutamboli/product-analytics-mini)** | DuckDB + polars analytics engine + Streamlit dashboard | Catches the unbounded-retention misreport |
+| 📈 **[ai-product-analytics](https://github.com/himanshutamboli/ai-product-analytics)** | GenAI product growth analytics: adoption, retention, feature funnels, AI quality & unit economics | Makes the v2 capability-vs-cost tradeoff explicit (+70% cost/session) |
 | 🧱 **[ai-project-template](https://github.com/himanshutamboli/ai-project-template)** | The shared production baseline every repo is forged from | uv · ruff · pytest · CI |
 
 ---
@@ -101,7 +102,7 @@ Production-quality projects, built and open-sourced in public:
 * ✅ [Enterprise RAG Knowledge Assistant](https://github.com/himanshutamboli/rag-knowledge-assistant)
 * ✅ [LLM Observability Platform](https://github.com/himanshutamboli/llm-observatory)
 * ✅ [Agentic Workflow Engine](https://github.com/himanshutamboli/agentic-workflow)
-* 🚧 AI Product Analytics Dashboard
+* ✅ [AI Product Analytics Dashboard](https://github.com/himanshutamboli/ai-product-analytics)
 * 🚧 [Enterprise AI Control Tower](https://github.com/himanshutamboli/enterprise-ai-delivery-control-tower)
 
 Each repository is built with production engineering practices, comprehensive documentation, testing, CI/CD, and architectural decisions explained.
