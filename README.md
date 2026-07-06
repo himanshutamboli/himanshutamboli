@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm Himanshu Tamboli
 
-AI Product & Technical Program Manager | GenAI | Agentic AI | LLMOps
-
 **AI Product Delivery & Technical Program Manager** | **Enterprise GenAI** | **Multi-Agent AI** | **LLMOps** | **Cloud & Data Platforms**
 
 I build enterprise AI products that bridge product strategy, engineering execution, and business outcomes.
